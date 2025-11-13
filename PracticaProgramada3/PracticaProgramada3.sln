@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada3", "PracticaProgramada3\PracticaProgramada3.csproj", "{2A24C6D2-5026-46EE-A1F8-8FCAC1102CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada3.BLL", "PracticaProgramada3.BLL\PracticaProgramada3.BLL.csproj", "{9A4B96D7-4AD4-45E4-B182-D71B9C3B1154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada3.DLL", "PracticaProgramada3.DLL\PracticaProgramada3.DLL.csproj", "{4D356684-5A05-4544-87EA-EB256EF15345}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2A24C6D2-5026-46EE-A1F8-8FCAC1102CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A24C6D2-5026-46EE-A1F8-8FCAC1102CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A24C6D2-5026-46EE-A1F8-8FCAC1102CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4B96D7-4AD4-45E4-B182-D71B9C3B1154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4B96D7-4AD4-45E4-B182-D71B9C3B1154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4B96D7-4AD4-45E4-B182-D71B9C3B1154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4B96D7-4AD4-45E4-B182-D71B9C3B1154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D356684-5A05-4544-87EA-EB256EF15345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D356684-5A05-4544-87EA-EB256EF15345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D356684-5A05-4544-87EA-EB256EF15345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D356684-5A05-4544-87EA-EB256EF15345}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
