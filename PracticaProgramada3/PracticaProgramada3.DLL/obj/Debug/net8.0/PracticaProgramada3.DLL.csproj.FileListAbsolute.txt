@@ -13,3 +13,18 @@ C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Pra
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.pdb
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.genruntimeconfig.cache
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\ref\PracticaProgramada3.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\bin\Debug\net8.0\PracticaProgramada3.DLL.deps.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\bin\Debug\net8.0\PracticaProgramada3.DLL.runtimeconfig.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\bin\Debug\net8.0\PracticaProgramada3.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\bin\Debug\net8.0\PracticaProgramada3.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.sourcelink.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\refint\PracticaProgramada3.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\PracticaProgramada3.DLL.genruntimeconfig.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.DLL\obj\Debug\net8.0\ref\PracticaProgramada3.DLL.dll

@@ -14,3 +14,19 @@ C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Pra
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\refint\PracticaProgramada3.BLL.dll
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.pdb
 C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\ref\PracticaProgramada3.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\bin\Debug\net8.0\PracticaProgramada3.BLL.deps.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\bin\Debug\net8.0\PracticaProgramada3.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\bin\Debug\net8.0\PracticaProgramada3.BLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\bin\Debug\net8.0\PracticaProgramada3.DLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\bin\Debug\net8.0\PracticaProgramada3.DLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.sourcelink.json
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\Practica.1AF2621A.Up2Date
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\refint\PracticaProgramada3.BLL.dll
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\PracticaProgramada3.BLL.pdb
+C:\Users\USUARIO\Source\Repos\PracticaProgramada3\PracticaProgramada3\PracticaProgramada3.BLL\obj\Debug\net8.0\ref\PracticaProgramada3.BLL.dll

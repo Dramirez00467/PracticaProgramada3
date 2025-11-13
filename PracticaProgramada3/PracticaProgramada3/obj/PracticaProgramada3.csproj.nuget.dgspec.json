@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj": {}
+    "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj": {
+    "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj",
         "projectName": "PracticaProgramada3.BLL",
-        "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,15 +25,14 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
-                "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj"
+              "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj"
               }
             }
           }
@@ -48,7 +47,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -75,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
+    "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj",
         "projectName": "PracticaProgramada3.DLL",
-        "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,7 +99,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +117,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -162,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj": {
+    "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj",
         "projectName": "PracticaProgramada3",
-        "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,18 +185,17 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj": {
-                "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj"
+              "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.BLL\\PracticaProgramada3.BLL.csproj"
               },
-              "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
-                "projectPath": "C:\\Proyectos\\Tercer Cuatrimestre 2025\\Proyecto de Programación Avanzada Web\\Practicas programadas\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj"
+              "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\PracticaProgramada3\\PracticaProgramada3\\PracticaProgramada3.DLL\\PracticaProgramada3.DLL.csproj"
               }
             }
           }
@@ -213,7 +210,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -249,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
