@@ -14,3 +14,12 @@
    b. Libraries o paquetes de nuget utilizados
 
    c. Principios de SOLID y patrones de diseño utilizados
+      Principio de responsabilidad única: Busca que cada clase asuma una única responsabilidad. Donde el controller se encarga de gestionar las peticiones HTTP y llamar al servicio. El servicio se encarga de la lógica de negocio y el repositorio provee el acceso a los           datos.
+      Principio de alimentación de objetos:  "Estos principios ayudan a crear software modular, reutilizable y fácil de mantener al organizar el código en torno a "objetos" que tienen atributos y comportamientos." (Pontia, 2025)
+      Patrón MVC: Modelo, Vista y Controlador:  Enfatiza una separación entre la lógica de negocios y su visualización.(MVC - Glosario De MDN Web Docs | MDN, s.f.)
+
+
+
+
+   Pontia. (2025, enero 10). Principios de la programación orientada a objetos 💡. Pontia. https://www.pontia.tech/principios-de-la-programacion-orientada-a-objetos/
+   MVC - Glosario de MDN Web Docs | MDN. (s.f.). https://developer.mozilla.org/es/docs/Glossary/MVC
