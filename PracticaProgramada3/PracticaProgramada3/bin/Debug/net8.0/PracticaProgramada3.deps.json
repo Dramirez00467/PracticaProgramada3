@@ -768,7 +768,7 @@
         },
         "runtime": {
           "PracticaProgramada3.BLL.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -780,7 +780,7 @@
         },
         "runtime": {
           "PracticaProgramada3.DLL.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
