@@ -20,5 +20,15 @@ namespace ApiVehiculos.Controllers
             var respuesta = await _vehiculosServicio.ObtenerVehiculosAsync();
             return Ok(respuesta);
         }
+        [HttpGet("{id}", Name = "ObtenerVehiculoPorId")] // ObtenerPorId
+        public async Task<IActionResult> ObtenerVehiculoPorId(int id)
+        {
+            var respuesta = await _vehiculosServicio.ObtenerVehiculoPorIdAsync(id);
+            if (respuesta.Data is null)
+            {
+                return NotFound("Vehículo no encontrado");
+            }
+            return Ok(respuesta);
+        }
     }
 }

@@ -12,6 +12,32 @@
          Esta separación permite mantener cada parte del programa organizada según su responsabilidad, facilitando la lectura y el mantenimiento del proyecto.
 
    b. Libraries o paquetes de nuget utilizados
+            Paquetes nugget usados
+                  -Microsoft.EntityFrameworkCore(8.0.21)
+                  -Microsoft.EntityFrameworkCore.Desing(8.0.21)
+                  -Microsoft.EntityFrameworkCore.Sqlite(8.0.21)
+                  -Microsoft.EntityFrameworkCore.Tools(8.0.21)
+                  -Swashbucle.ASPNetCore(6.6.2)
+                  -Automapper(15.1.0)
+                  
+            Librerias usadas
+                  -using Microsoft.AspNetCore.Mvc
+                  -using PracticaProgramada3.BLL.Servicios
+                  -using Microsoft.EntityFrameworkCore;
+                  -using PracticaProgramada3.BLL.Mapeos;
+                  -using PracticaProgramada3.BLL.Servicios;
+                  -using PracticaProgramada3.DLL;
+                  -using PracticaProgramada3.DLL.Repositorio;
+                  -using System;
+                  -using System.Collections.Generic;
+                  -using System.Linq;
+                  -using System.Text;
+                  -using System.Threading.Tasks;
+                  -using AutoMapper;
+                  -using PracticaProgramada3.BLL.Dtos;
+                  -using PracticaProgramada3.DLL.Entidades;
+                  -using static System.Runtime.InteropServices.JavaScript.JSType;
+                  -using AutoMapper;
 
    c. Principios de SOLID y patrones de diseño utilizados
       Principio de responsabilidad única: Busca que cada clase asuma una única responsabilidad. Donde el controller se encarga de gestionar las peticiones HTTP y llamar al servicio. El servicio se encarga de la lógica de negocio y el repositorio provee el acceso a los           datos.
